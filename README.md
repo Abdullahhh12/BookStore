@@ -1,4 +1,4 @@
-MERN Bookstore Application
+**MERN Bookstore Application**
 A full-stack Bookstore application built with the MERN (MongoDB, Express, React, Node.js) stack, enabling users to manage books with Create, Read, Update, and Delete (CRUD) functionality.
 
 Features
